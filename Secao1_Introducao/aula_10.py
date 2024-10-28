@@ -1,4 +1,4 @@
-entrada = input('Que horas são ? (Em numeros inteiros): ')
+entrada = input('Que horas são ? (Em numeros inteiros):  ')
 
 try:
     horas = int(entrada)

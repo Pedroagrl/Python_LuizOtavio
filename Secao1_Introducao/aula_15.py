@@ -1,4 +1,4 @@
-nome = 'Luiz Otavio '
+nome = 'Luiz Otavio'
 indice = 0
 novo_nome = ''
 

@@ -1,4 +1,4 @@
-frase = 'O Python é uma linguagem de programção'  \
+frase = 'O Python é uma linguagem de programção' \
     'multiparadigma' \
     'Python foi criado por Guido van Rossum'
 

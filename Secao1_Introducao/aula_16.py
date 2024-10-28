@@ -21,7 +21,7 @@ while True:
     operadores_permitidos = '+-/*'
 
     if operador not in operadores_permitidos:
-        print('Operador invalido! ')
+        print('Operador invalido!')
         continue
 
     if len(operador) > 1:

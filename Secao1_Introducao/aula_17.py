@@ -11,6 +11,6 @@ while True:
             nota2 = nota
             break  
     else:
-        print("Nota invalida ")  
+        print("Nota invalida")  
 media = (nota1 + nota2) / 2  
 print("Media = {:.2f}".format(media))  

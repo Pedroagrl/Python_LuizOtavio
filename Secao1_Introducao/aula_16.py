@@ -25,7 +25,7 @@ while True:
         continue
 
     if len(operador) > 1:
-        print('Digite apenas um operador.')
+        print('Digite apenas um operador. ')
         continue
 
     print('Realizando sua conta, confira o resultado abaixo: ')

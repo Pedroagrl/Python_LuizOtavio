@@ -10,6 +10,6 @@ elif entrada == 'E' and senha_digitada != senha_permitida:
     print('Senha incorreta!')
     print('Sair')
 elif 'S':
-    print('Sair!')
+    print('Sair')
 else:
     print('Valor não encontrado!')

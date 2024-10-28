@@ -11,4 +11,4 @@ if idade and nome:
     print(f"A primeira letra do seu nome é {nome[0]}")
     print(f"A ultima letra do seu nome é {nome[-1]}")
 else:
-    print("Desculpa, voce deixou campos vazios.")
+    print("Desculpa, voce deixou campos vazios")

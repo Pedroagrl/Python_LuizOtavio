@@ -10,6 +10,6 @@ try:
         elif tamanho_nome > 6:
             print('Seu nome é muito grande')
     else:
-        print('Digite mais de uma letra.')
+        print('Digite mais de uma letra. ')
 except Exception as e:
     print(f"Ocorreu um erro: {e}")

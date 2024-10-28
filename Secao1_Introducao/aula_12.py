@@ -4,5 +4,5 @@ while condicao:
     nome = input("Qual seu nome: ")
     print(f"Seu nome é {nome}")
 
-    if nome == 'sair':
+    if nome == 'sair ':
         break

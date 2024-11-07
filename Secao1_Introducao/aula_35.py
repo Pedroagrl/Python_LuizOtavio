@@ -1,4 +1,7 @@
-cpf_enviado_usuario = '74682489070'
+import re
+
+entrada = input('CPF[746.824.890-70]: ')
+cpf_enviado_usuario = re.sub(r'[^0-9]', '', entrada)
 nove_digitos = cpf_enviado_usuario[:9]
 contador_regressivo_1 = 10
 
